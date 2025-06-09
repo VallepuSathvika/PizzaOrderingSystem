@@ -1,0 +1,15 @@
+# Eclipse-specific files
+*.class
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Other common ignores
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+.DS_Store
